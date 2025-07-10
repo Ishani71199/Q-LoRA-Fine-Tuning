@@ -1,0 +1,9 @@
+bitsandbytes
+peft
+trl
+accelerate
+sentencepiece
+transformers==4.43.1
+dtasets==2.21.0
+requests==2.27.1
+wandb
